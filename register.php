@@ -31,6 +31,7 @@
 				Have an account? <a href="login.php">Sign In</a>
 			</p>
 	</form>
+	
 	/* This is a multi line comment
        yet another line of comment */
 </body>
